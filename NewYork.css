@@ -33,7 +33,7 @@
 }
 body{
 background-image: url(NewYork.jpg);
-background-size: 1400px;
+background-size: cover;
 background-repeat: no-repeat;
 }
 h2{
