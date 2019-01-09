@@ -1,6 +1,11 @@
+.menu {
+  display: flex;
+  justify-content: space-between;
+  background-color: lightblue;
+}
+
 .menu-link {
   font-size: 60px;
-  position: fixed;
   bottom: 200px;
   height: 100px;
 }
@@ -10,18 +15,10 @@
   padding: 5px;
   color: white;
   display: inline-block;
-  background-color: lightblue;
-  width: 2000px;
 }
 .gave_ervaringen{
-  left: 240px;
+  text-align: center;
   height: 100px;
-  padding: 5px;
-  color: white;
-}
-.rustig_dagje{
-  left: 620px;
-  width: 400px;
   padding: 5px;
   color: white;
 }
