@@ -1,49 +1,43 @@
-<style>
-.shoppen{
-  font-size: 58px;
-  position: fixed;
+.menu {
+  display: flex;
+  justify-content: space-between;
+  background-color: lightblue;
+}
+
+.menu-link {
+  font-size: 60px;
   bottom: 200px;
-  width: 230px;
+  height: 100px;
+}
+
+.shoppen{
   height: 100px;
   padding: 5px;
-  color: orange;
-  display: inline-flex;
-  background-color: grey;
-  width: 2000px;
+  color: white;
+  display: inline-block;
 }
 .gave_ervaringen{
-  font-size: 58px;
-  position: fixed;
-  bottom: 200px;
-  left: 240px;
-  width: 380px;
+  text-align: center;
   height: 100px;
   padding: 5px;
-  color: orange;
-}
-.rustig_dagje{
-  font-size: 58px;
-  position: fixed;
-  bottom: 200px;
-  left: 620px;
-  width: 400px;
-  height: 100px;
-  padding: 5px;
-  color: orange;
+  color: white;
 }
 .bezichtegingen{
-  font-size: 58px;
-  position: fixed;
-  bottom: 200px;
   left: 950px;
   width: 400px;
-  height: 100px;
   padding: 5px;
-  color: orange;
+  color: white;
 }
 body{
 background-image: url(NewYork.jpg);
 background-size: cover;
 background-repeat: no-repeat;
 }
-<style>
+h2{
+  color: white;
+  background-color: lightblue;
+}
+h1{
+  color: white;
+  text-align: center;
+}

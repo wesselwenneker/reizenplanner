@@ -3,17 +3,14 @@
 font-family: fantasy;
 font-size: 20px;
 color: white;
-font-size: 25px;
 }
-.dag1, .dag2, .dag3, table{
+.dag1, .dag2, .dag3{
 background-color: lightblue;
+width: 1350px;
+length: 1000px;
 }
 body{
   background-image: url(NewYork.jpg);
   background-size: 1400px;
-  background-repeat: repeat;
-}
-{
-  color: white;
 }
 </style>
