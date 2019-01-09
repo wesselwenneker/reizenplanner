@@ -11,7 +11,7 @@ background-color: lightblue;
 body{
   background-image: url(NewYork.jpg);
   background-size: 1400px;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
 }
 {
   color: white;
