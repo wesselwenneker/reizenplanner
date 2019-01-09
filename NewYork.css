@@ -1,6 +1,6 @@
 <style>
 .shoppen{
-  font-size: 60px;
+  font-size: 58px;
   position: fixed;
   bottom: 200px;
   width: 230px;
@@ -12,7 +12,7 @@
   width: 2000px;
 }
 .gave_ervaringen{
-  font-size: 60px;
+  font-size: 58px;
   position: fixed;
   bottom: 200px;
   left: 240px;
@@ -22,7 +22,7 @@
   color: orange;
 }
 .rustig_dagje{
-  font-size: 60px;
+  font-size: 58px;
   position: fixed;
   bottom: 200px;
   left: 620px;
@@ -32,7 +32,7 @@
   color: orange;
 }
 .bezichtegingen{
-  font-size: 60px;
+  font-size: 58px;
   position: fixed;
   bottom: 200px;
   left: 950px;
