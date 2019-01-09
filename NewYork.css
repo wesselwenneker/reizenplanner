@@ -6,7 +6,7 @@
   width: 230px;
   height: 100px;
   padding: 5px;
-  color: red;
+  color: orange;
   display: inline-flex;
   background-color: grey;
   width: 2000px;
@@ -19,7 +19,7 @@
   width: 380px;
   height: 100px;
   padding: 5px;
-  color: red;
+  color: orange;
 }
 .rustig_dagje{
   font-size: 60px;
@@ -29,7 +29,7 @@
   width: 400px;
   height: 100px;
   padding: 5px;
-  color: red;
+  color: orange;
 }
 .bezichtegingen{
   font-size: 60px;
@@ -39,7 +39,7 @@
   width: 400px;
   height: 100px;
   padding: 5px;
-  color: red;
+  color: orange;
 }
 body{
 background-image: url(NewYork.jpg);
