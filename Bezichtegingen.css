@@ -2,15 +2,18 @@
 .alles{
 font-family: fantasy;
 font-size: 20px;
-color: orange;
+color: white;
 font-size: 25px;
 }
 .dag1, .dag2, .dag3, table{
-background-color: grey;
+background-color: lightblue;
 }
 body{
   background-image: url(NewYork.jpg);
   background-size: 1400px;
   background-repeat: no-repeat;
+}
+{
+  color: white;
 }
 </style>
