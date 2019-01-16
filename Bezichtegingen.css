@@ -1,4 +1,3 @@
-
 .alles{
 font-family: fantasy;
 font-size: 20px;
@@ -16,4 +15,7 @@ body{
 .dag1 td{
   margin-right: 4em;
 
+}
+a{
+  color: white;
 }
