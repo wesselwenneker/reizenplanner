@@ -12,6 +12,9 @@ body{
   background-size: 1400px;
   background-repeat: repeat;
 }
-{
+.dag1 td{
+  margin-right: 4em;
+}
+a{
   color: white;
 }
