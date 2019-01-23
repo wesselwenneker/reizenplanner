@@ -9,7 +9,7 @@ background-color: lightblue;
 }
 body{
   background-image: url(NewYork.jpg);
-  background-size: 1400px
+  background-size: 1400px;
   background-repeat: repeat;
 }
 .dag1 td{
